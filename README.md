@@ -31,3 +31,6 @@ Used numerical attributes:
 - Evaluated using accuracy, feature importance.
 - Compared different criterion types (gini, entropy) using 10-fold CV.
 - Tuned tree max_depth from 1 to 20 for optimal performance.
+
+
+This project was developed as part of Assignment 1 for the subject CSCI946 Big Data Analytics at the School of Computing and Information Technology, University of Wollongong.
